@@ -4,7 +4,7 @@ import ChapterCard from "./ChapterCard";
 const chapters = [
   { id: 1, title: "Aprendendo a tomar decisões", teacherPdf: "/assets/pdfs/Educador_Capitulo_01_3a.pdf", studentPdf: "/assets/pdfs/Estudante_Capitulo_01_3a.pdf" },
   { id: 2, title: "Vale a pena uma pizza por esse preço?", teacherPdf: "/assets/pdfs/Educador_Capitulo_02_3a.pdf", studentPdf: "/assets/pdfs/Estudante_Capitulo_02_3a.pdf" },
-  
+  { id: 3, title: "Quanto devo cobrar por uma pizza?", teacherPdf: "/assets/pdfs/Educador_Capitulo_03_3a.pdf", studentPdf: "/assets/pdfs/Estudante_Capitulo_03_3a.pdf" },
 ];
 
 const ChapterList = () => {
