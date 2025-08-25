@@ -6,6 +6,9 @@ const chapters = [
   { id: 2, title: "Vale a pena uma pizza por esse preço?", teacherPdf: "/assets/pdfs/Educador_Capitulo_02_3a.pdf", studentPdf: "/assets/pdfs/Estudante_Capitulo_02_3a.pdf" },
   { id: 3, title: "Quanto devo cobrar por uma pizza?", teacherPdf: "/assets/pdfs/Educador_Capitulo_03_3a.pdf", studentPdf: "/assets/pdfs/Estudante_Capitulo_03_3a.pdf" },
   { id: 4, title: "O preço da fatia de pizza com que todo mundo concorda", teacherPdf: "/assets/pdfs/Educador_Capitulo_04_3a.pdf", studentPdf: "/assets/pdfs/Estudante_Capitulo_04_3a.pdf" },
+
+  { id: 5, title: " O que faz o preço da pizza mudar?", teacherPdf: "/assets/pdfs/Educador_Capitulo_05_3a.pdf", studentPdf: "/assets/pdfs/Estudante_Capitulo_05_3a.pdf" },
+  { id: 6, title: "Por que alguns países são tão ricos e outros tão pobres?", teacherPdf: "/assets/pdfs/Educador_Capitulo_06_3a.pdf", studentPdf: "/assets/pdfs/Estudante_Capitulo_06_3a.pdf" },
 ];
 
 const ChapterList = () => {
