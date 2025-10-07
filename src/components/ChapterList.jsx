@@ -9,6 +9,10 @@ const chapters = [
 
   { id: 5, title: " O que faz o preço da pizza mudar?", teacherPdf: "/assets/pdfs/Educador_Capitulo_05_3a.pdf", studentPdf: "/assets/pdfs/Estudante_Capitulo_05_3a.pdf" },
   { id: 6, title: "Por que alguns países são tão ricos e outros tão pobres?", teacherPdf: "/assets/pdfs/Educador_Capitulo_06_3a.pdf", studentPdf: "/assets/pdfs/Estudante_Capitulo_06_3a.pdf" },
+
+  { id: 7, title: "Por que existem governos?", teacherPdf: "/assets/pdfs/Educador_Capitulo_07_3a.pdf", studentPdf: "/assets/pdfs/Estudante_Capitulo_07_3a.pdf" },
+  { id: 8, title: "Meu primeiro salário!", teacherPdf: "/assets/pdfs/Educador_Capitulo_08_3a.pdf", studentPdf: "/assets/pdfs/Estudante_Capitulo_08_3a.pdf" },
+  { id: 9, title: "O que fazer (e o que não fazer) com seu dinheiro", teacherPdf: "/assets/pdfs/Educador_Capitulo_09_3a.pdf", studentPdf: "/assets/pdfs/Estudante_Capitulo_09_3a.pdf" },
 ];
 
 const ChapterList = () => {
